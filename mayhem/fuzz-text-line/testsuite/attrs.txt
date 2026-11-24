@@ -1,0 +1,6 @@
+p1b2.bg_color=#ff0000
+p1b4.options=x\ny
+p1b8.options=["7","8"]
+idle off
+theme 2
+backlight {"state":1,"brightness":100}

@@ -1,0 +1,2 @@
+config/gui
+{"rotate":2,"idle1":5}

@@ -1,0 +1,2 @@
+config/mqtt
+{"name":"p","group":"g","port":1}

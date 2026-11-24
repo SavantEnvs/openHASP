@@ -1,0 +1,3 @@
+jsonl {"page":1,"id":20,"obj":"btn","action":"p3","text":"x"}
+p1b20.action=prev
+p1b20.text

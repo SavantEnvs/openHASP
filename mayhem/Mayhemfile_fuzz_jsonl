@@ -1,0 +1,9 @@
+project: savantenvs/openHASP
+target: fuzz-jsonl
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz-jsonl/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_jsonl
+    libfuzzer: true
+    timeout: 10

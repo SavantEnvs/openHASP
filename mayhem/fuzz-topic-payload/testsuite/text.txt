@@ -1,0 +1,2 @@
+command/p1b1.text
+hello

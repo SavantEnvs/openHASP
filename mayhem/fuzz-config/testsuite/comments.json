@@ -1,0 +1,5 @@
+{
+  // comment
+  "hasp": {"startpage": 0, "color1": "red"},
+  "mqtt": {"name": "x", "port": "1883"}
+}

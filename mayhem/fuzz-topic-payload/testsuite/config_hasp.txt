@@ -1,0 +1,2 @@
+config/hasp
+{"theme":3,"startpage":2,"color1":"#00ff00"}

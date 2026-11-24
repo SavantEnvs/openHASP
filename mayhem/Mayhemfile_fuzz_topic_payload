@@ -1,0 +1,9 @@
+project: savantenvs/openHASP
+target: fuzz-topic-payload
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz-topic-payload/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_topic_payload
+    libfuzzer: true
+    timeout: 10

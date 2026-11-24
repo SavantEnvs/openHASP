@@ -1,0 +1,7 @@
+{"page":1,"id":1,"obj":"line","points":[[0,0],[10,20],[30,5]],"line_width":3}
+{"page":1,"id":2,"obj":"btn","text":"go","action":"p2"}
+{"page":1,"id":3,"obj":"btn","text":"tap","action":{"down":"page next","up":"p1b1.hidden=1"}}
+{"page":1,"id":4,"obj":"label","text":"%-12s","text_font":24,"align":"center"}
+{"page":1,"id":5,"obj":"slider","min":-10,"max":10,"val":3}
+{"page":2,"id":1,"obj":"btnmatrix","options":["a","b","\n","c"],"toggle":true}
+{"page":2,"id":2,"obj":"dropdown","options":"one\ntwo","val":1}

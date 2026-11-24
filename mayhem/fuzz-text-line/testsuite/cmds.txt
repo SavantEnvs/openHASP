@@ -1,0 +1,5 @@
+p1b2.text=hello
+p1b2.text
+p1b1.points=[[1,1],[5,9]]
+p1b3.val=50
+json ["p1b1.x=4","page 2"]
